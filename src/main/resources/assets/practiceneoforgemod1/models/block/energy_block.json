@@ -1,0 +1,6 @@
+{
+  "parent":"minecraft:block/cube_all",
+  "textures": {
+    "all": "practiceneoforgemod1:block/energy_block"
+  }
+}
